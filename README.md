@@ -1,4 +1,3 @@
-# RadmehrJafarinehzad
 # 👋 Hi, I'm Radmehr Jafarinezhad
 
 💻 Front-End Developer & Robotics Enthusiast
