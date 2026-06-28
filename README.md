@@ -23,17 +23,9 @@ I'm passionate about building modern web applications and developing robotics an
 
 ### Front-End
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* Tailwind CSS
-* Git & GitHub
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,git,github)](https://skillicons.dev)
 
-### Programming
-
-* Python
-* Arduino (C/C++)
-
+* ح
 ### Hardware & Robotics
 
 * Arduino
@@ -41,6 +33,10 @@ I'm passionate about building modern web applications and developing robotics an
 * PCB Design
 * Altium Designer
 * SolidWorks
+
+### Other languages
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)
 
 ---
 
@@ -50,6 +46,7 @@ I'm passionate about building modern web applications and developing robotics an
 * Building professional Front-End projects
 * Improving UI/UX skills
 * Creating a strong GitHub portfolio
+* Working on Smart Vaccum Project
 
 ---
 
