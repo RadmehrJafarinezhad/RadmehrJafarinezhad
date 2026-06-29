@@ -23,7 +23,7 @@ I'm passionate about building modern web applications and developing robotics an
 
 ### Front-End
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,git)](https://skillicons.dev)
 
 ### Hardware & Robotics
 
