@@ -25,7 +25,6 @@ I'm passionate about building modern web applications and developing robotics an
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,git,github)](https://skillicons.dev)
 
-* ح
 ### Hardware & Robotics
 
 * Arduino
